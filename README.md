@@ -1,5 +1,5 @@
 ### Hi there 👋
-![banner](Moe Azizi_color.png)
+![banner](MoeEmoji_1.gif)
 
 I'm currently a Software Engineer at Microsoft where I work with customers on all sorts of projects, in a team focused on projects related to Data & Artificial Intelligence.
 

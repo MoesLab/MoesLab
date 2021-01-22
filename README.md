@@ -1,4 +1,4 @@
-### Hi there 👋 ![banner](MoeEmoji_1.gif)
+# Hi there 👋                    ![banner](MoeEmoji_1.gif)
 
 I’m currently a Software Engineer and Audio Video programmer where I work with customers on many projects, I am focused on utilizing technology to help people and organizations to share and collaborate.
 I am familiar with the number of computer languages and frameworks used in full stack developments.

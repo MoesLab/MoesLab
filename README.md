@@ -1,7 +1,7 @@
 # Hi there 👋                    ![banner](MoeEmoji_1.gif)
 
 I’m a Software Engineer and Audio Video programmer where I work with customers on related projects, I am focused on utilizing technology to help people and organizations to share and collaborate.
-I am familiar with the number of computer languages and frameworks used in full stack developments.
+I am familiar with the number of Computer languages and frameworks used in full stack developments.
 More over, I am very interested in Embedded systems and Electronics in fact my hobby revolves around Mechatronics.
 
 My projects hosted in this hub showing some of them.

@@ -8,7 +8,8 @@ My projects hosted in this hub showing some of them.
 - C, C++, C#, Python & Lua projects
 - Front-end Html, CSS, Javascript, Angular...
 - Azure technologies: Cognitive Services, Chatbots, IoT, Storage, Azure Functions...
-- Crestron, Extron, AMX, QSC, Kramer, Savant, Control4 
+- Crestron, Extron, AMX, QSC, Kramer, Savant, Control4
+
 My public repos made up of some samples I don’t mind sharing with public.
 
 Please contact me if you are looking for some help in mentioned regards.

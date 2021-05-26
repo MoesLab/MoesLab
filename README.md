@@ -1,12 +1,13 @@
 # Hi there 👋                    ![banner](MoeEmoji_1.gif)
 
-I’m a Audio Video programmer where I work with customers on related projects, I am focused on utilizing technology to help people and organizations to share and collaborate.
+I’m an Audio Video and control system programmer with skills in digital graphic designs, I am focused on utilizing technology to help people and organizations to share and collaborate.
 I am familiar with the number of Computer languages and frameworks used in full stack developments.
 More over, I am very interested in Embedded systems and Electronics in fact my hobby revolves around Mechatronics.
 
 My projects hosted in this hub showing some of them.
 - C, C++, C#, Python & Lua projects
 - Front-end Html, CSS, Javascript, Angular...
+- Adobe Photoshop, Illustrator, InDesign, Animate...
 - Azure technologies: Cognitive Services, Chatbots, IoT, Storage, Azure Functions...
 - Crestron, Extron, AMX, QSC, Kramer, Savant, Control4
 
